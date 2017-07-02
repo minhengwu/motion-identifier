@@ -6,3 +6,6 @@
 
 #cython
 *.pyc
+
+#model
+*.h5
